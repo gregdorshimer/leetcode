@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9f73d255-5531-434b-b428-2a18b481e450" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/283-move-zeroes.py" beforeDir="false" afterPath="$PROJECT_DIR$/283-move-zeroes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/392-is-subsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/392-is-subsequence.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.283-move-zeroes.executor": "Run",
+    "Python.392-is-subsequence.executor": "Run",
     "Python.443-string-compression.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",

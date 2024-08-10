@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f73d255-5531-434b-b428-2a18b481e450" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1004-max-consecutive-ones-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1493-longest-subarray-after-deleting-1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,21 +34,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.1004-max-consecutive-ones-3.executor": "Run",
-    "Python.11-container-with-most-water.executor": "Run",
-    "Python.1456-max-vowels-in-substring.executor": "Run",
-    "Python.283-move-zeroes.executor": "Run",
-    "Python.392-is-subsequence.executor": "Run",
-    "Python.443-string-compression.executor": "Run",
-    "Python.643-max-avg-subarray-1.executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "advanced.settings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1004-max-consecutive-ones-3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11-container-with-most-water.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1456-max-vowels-in-substring.executor&quot;: &quot;Run&quot;,
+    &quot;Python.283-move-zeroes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.392-is-subsequence.executor&quot;: &quot;Run&quot;,
+    &quot;Python.443-string-compression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.643-max-avg-subarray-1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

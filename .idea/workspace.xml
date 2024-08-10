@@ -44,12 +44,18 @@
     "Python.392-is-subsequence.executor": "Run",
     "Python.443-string-compression.executor": "Run",
     "Python.643-max-avg-subarray-1.executor": "Run",
+    "Python.724-find-pivot-index.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

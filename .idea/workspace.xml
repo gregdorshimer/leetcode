@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f73d255-5531-434b-b428-2a18b481e450" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/872-leaf-similar-trees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1448-count-good-nodes-binary-tree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +40,7 @@
     "Python.104-max-depth-binary-tree.executor": "Run",
     "Python.11-container-with-most-water.executor": "Run",
     "Python.1207-unique-number-of-occurrences.executor": "Run",
+    "Python.1448-count-good-nodes-binary-tree.executor": "Run",
     "Python.1456-max-vowels-in-substring.executor": "Run",
     "Python.1493-longest-subarray-after-deleting-1.executor": "Run",
     "Python.1657-two-close-strings.executor": "Run",

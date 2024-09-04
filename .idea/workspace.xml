@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f73d255-5531-434b-b428-2a18b481e450" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1372-longest-zigzag-binary-tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/215-kth-largest-element-in-array.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +49,7 @@
     "Python.206-reverse-linked-list.executor": "Run",
     "Python.2095-delete-middle-node-linked-list.executor": "Run",
     "Python.2130-max-twin-sum-linked-list.executor": "Run",
+    "Python.215-kth-largest-element-in-array.executor": "Run",
     "Python.2215-difference-of-two-arrays.executor": "Run",
     "Python.2352-equal-row-column-pairs.executor": "Run",
     "Python.2390-removing-stars-from-string.executor": "Run",
@@ -78,7 +79,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-ce3d9afa04ac-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.20224.347" />
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
       </set>
     </attachedChunks>
   </component>

@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f73d255-5531-434b-b428-2a18b481e450" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/198-house-robber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/790-domino-tromino-tiling.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,44 +34,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.1004-max-consecutive-ones-3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.104-max-depth-binary-tree.executor&quot;: &quot;Run&quot;,
-    &quot;Python.11-container-with-most-water.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1207-unique-number-of-occurrences.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1372-longest-zigzag-binary-tree.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1448-count-good-nodes-binary-tree.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1456-max-vowels-in-substring.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1493-longest-subarray-after-deleting-1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1657-two-close-strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1732-find-highest-altitude.executor&quot;: &quot;Run&quot;,
-    &quot;Python.206-reverse-linked-list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2095-delete-middle-node-linked-list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2130-max-twin-sum-linked-list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.215-kth-largest-element-in-array.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2215-difference-of-two-arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2300-successful-pairs-spells-potions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2352-equal-row-column-pairs.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2390-removing-stars-from-string.executor&quot;: &quot;Run&quot;,
-    &quot;Python.283-move-zeroes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.328-odd-even-linked-list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.392-is-subsequence.executor&quot;: &quot;Run&quot;,
-    &quot;Python.394-decode-string.executor&quot;: &quot;Run&quot;,
-    &quot;Python.437-path-sum-3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.443-string-compression.executor&quot;: &quot;Run&quot;,
-    &quot;Python.643-max-avg-subarray-1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.724-find-pivot-index.executor&quot;: &quot;Run&quot;,
-    &quot;Python.735-asteroid-collision.executor&quot;: &quot;Run&quot;,
-    &quot;Python.872-leaf-similar-trees.executor&quot;: &quot;Run&quot;,
-    &quot;Python.933-number-of-recent-calls.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/user/misc/code/django-test/mysite/polls/templates/polls/index.html&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.1004-max-consecutive-ones-3.executor": "Run",
+    "Python.104-max-depth-binary-tree.executor": "Run",
+    "Python.11-container-with-most-water.executor": "Run",
+    "Python.1207-unique-number-of-occurrences.executor": "Run",
+    "Python.1372-longest-zigzag-binary-tree.executor": "Run",
+    "Python.1448-count-good-nodes-binary-tree.executor": "Run",
+    "Python.1456-max-vowels-in-substring.executor": "Run",
+    "Python.1493-longest-subarray-after-deleting-1.executor": "Run",
+    "Python.1657-two-close-strings.executor": "Run",
+    "Python.1732-find-highest-altitude.executor": "Run",
+    "Python.206-reverse-linked-list.executor": "Run",
+    "Python.2095-delete-middle-node-linked-list.executor": "Run",
+    "Python.2130-max-twin-sum-linked-list.executor": "Run",
+    "Python.215-kth-largest-element-in-array.executor": "Run",
+    "Python.2215-difference-of-two-arrays.executor": "Run",
+    "Python.2300-successful-pairs-spells-potions.executor": "Run",
+    "Python.2352-equal-row-column-pairs.executor": "Run",
+    "Python.2390-removing-stars-from-string.executor": "Run",
+    "Python.283-move-zeroes.executor": "Run",
+    "Python.328-odd-even-linked-list.executor": "Run",
+    "Python.392-is-subsequence.executor": "Run",
+    "Python.394-decode-string.executor": "Run",
+    "Python.437-path-sum-3.executor": "Run",
+    "Python.443-string-compression.executor": "Run",
+    "Python.643-max-avg-subarray-1.executor": "Run",
+    "Python.724-find-pivot-index.executor": "Run",
+    "Python.735-asteroid-collision.executor": "Run",
+    "Python.790-domino-tromino-tiling.executor": "Run",
+    "Python.872-leaf-similar-trees.executor": "Run",
+    "Python.933-number-of-recent-calls.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/user/misc/code/django-test/mysite/polls/templates/polls/index.html",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />

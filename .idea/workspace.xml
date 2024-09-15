@@ -5,8 +5,58 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f73d255-5531-434b-b428-2a18b481e450" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/875-koko-eating-bananas.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1004-max-consecutive-ones-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/104-max-depth-binary-tree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1071-greatest-common-divisor-of-strings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-container-with-most-water.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1173-nth-tribonacci-number.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1207-unique-number-of-occurrences.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1372-longest-zigzag-binary-tree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1431-kids-with-candies.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1448-count-good-nodes-binary-tree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1456-max-vowels-in-substring.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1493-longest-subarray-after-deleting-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/151-reverse-words.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/162-find-peak-element.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1657-two-close-strings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1679-max-k-sum-pairs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1732-find-highest-altitude.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1768-merge-strings-alternately.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/198-house-robber.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/206-reverse-linked-list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2095-delete-middle-node-linked-list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2130-max-twin-sum-linked-list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/215-kth-largest-element-in-array.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2215-difference-of-two-arrays.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2300-successful-pairs-spells-potions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2336-smallest-number-in-infinite-set.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2352-equal-row-column-pairs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/238-product-of-array-except-self.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2390-removing-stars-from-string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2542-maximum-subsequence-score.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/283-move-zeroes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/328-odd-even-linked-list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/334-increasing-triplet-subsequence.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/345-reverse-vowels.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/374-guess-number-higher-lower.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/392-is-subsequence.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/394-decode-string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/437-path-sum-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/443-string-compression.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/450-delete-node-bst.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/605-can-place-flowers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/643-max-avg-subarray-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/649-dota2-senate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/700-search-binary-search-tree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/724-find-pivot-index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/735-asteroid-collision.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/739-daily-temperatures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/746-min-cost-climbing-stairs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/872-leaf-similar-trees.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/875-koko-eating-bananas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/901-online-stock-span.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/933-number-of-recent-calls.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +95,7 @@
     "Python.1456-max-vowels-in-substring.executor": "Run",
     "Python.1493-longest-subarray-after-deleting-1.executor": "Run",
     "Python.1657-two-close-strings.executor": "Run",
+    "Python.17-letter-combos-of-phone-number.executor": "Run",
     "Python.1732-find-highest-altitude.executor": "Run",
     "Python.206-reverse-linked-list.executor": "Run",
     "Python.2095-delete-middle-node-linked-list.executor": "Run",

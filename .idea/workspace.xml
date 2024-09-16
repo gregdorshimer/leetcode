@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f73d255-5531-434b-b428-2a18b481e450" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/top-150/27-remove-element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/top-150/26-remove-dups.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +56,7 @@
     "Python.2352-equal-row-column-pairs.executor": "Run",
     "Python.2390-removing-stars-from-string.executor": "Run",
     "Python.2542-maximum-subsequence-score.executor": "Run",
+    "Python.26-remove-dups.executor": "Run",
     "Python.27-remove-element.executor": "Run",
     "Python.283-move-zeroes.executor": "Run",
     "Python.328-odd-even-linked-list.executor": "Run",

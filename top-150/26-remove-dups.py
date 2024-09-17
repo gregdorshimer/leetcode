@@ -1,6 +1,3 @@
-from os import remove
-
-
 def removeDuplicates(nums):
     """
     :type nums: List[int]
@@ -8,10 +5,8 @@ def removeDuplicates(nums):
     """
     i = 0
     j = 1
-    if len(nums) == 0:
-        return 0
-    if len(nums) == 1:
-        return 1
+    if len(nums) <= 1:
+        return len(nums)
     while j < len(nums):
         if i == j:
             j += 1

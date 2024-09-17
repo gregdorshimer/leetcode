@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f73d255-5531-434b-b428-2a18b481e450" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/top-150/26-remove-dups.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/top-150/80-remove-dups-2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/top-150/26-remove-dups.py" beforeDir="false" afterPath="$PROJECT_DIR$/top-150/26-remove-dups.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +69,7 @@
     "Python.724-find-pivot-index.executor": "Run",
     "Python.735-asteroid-collision.executor": "Run",
     "Python.790-domino-tromino-tiling.executor": "Run",
+    "Python.80-remove-dups-2.executor": "Run",
     "Python.872-leaf-similar-trees.executor": "Run",
     "Python.875-koko-eating-bananas.executor": "Run",
     "Python.933-number-of-recent-calls.executor": "Run",

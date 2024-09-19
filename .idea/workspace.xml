@@ -1,92 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f73d255-5531-434b-b428-2a18b481e450" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/top-150/121-buy-sell-stock.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e11a2ede-ca04-4813-9f1d-7fc3414bd907" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 8
-}</component>
-  <component name="ProjectId" id="2kJXdCABoqKhG3eACxxUMCdCM5O" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2mJ41S9HIE83hZDyU40Ufm1T2Sz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.1004-max-consecutive-ones-3.executor": "Run",
-    "Python.104-max-depth-binary-tree.executor": "Run",
-    "Python.11-container-with-most-water.executor": "Run",
-    "Python.1207-unique-number-of-occurrences.executor": "Run",
     "Python.121-buy-sell-stock.executor": "Run",
-    "Python.1372-longest-zigzag-binary-tree.executor": "Run",
-    "Python.1448-count-good-nodes-binary-tree.executor": "Run",
-    "Python.1456-max-vowels-in-substring.executor": "Run",
-    "Python.1493-longest-subarray-after-deleting-1.executor": "Run",
-    "Python.1657-two-close-strings.executor": "Run",
     "Python.169-majority-element.executor": "Run",
-    "Python.17-letter-combos-of-phone-number.executor": "Run",
-    "Python.1732-find-highest-altitude.executor": "Run",
-    "Python.189-rotate-array.executor": "Run",
-    "Python.206-reverse-linked-list.executor": "Run",
-    "Python.2095-delete-middle-node-linked-list.executor": "Run",
-    "Python.2130-max-twin-sum-linked-list.executor": "Run",
-    "Python.215-kth-largest-element-in-array.executor": "Run",
-    "Python.2215-difference-of-two-arrays.executor": "Run",
-    "Python.2300-successful-pairs-spells-potions.executor": "Run",
-    "Python.2352-equal-row-column-pairs.executor": "Run",
-    "Python.2390-removing-stars-from-string.executor": "Run",
-    "Python.2542-maximum-subsequence-score.executor": "Run",
-    "Python.26-remove-dups.executor": "Run",
-    "Python.27-remove-element.executor": "Run",
-    "Python.283-move-zeroes.executor": "Run",
-    "Python.328-odd-even-linked-list.executor": "Run",
-    "Python.392-is-subsequence.executor": "Run",
-    "Python.394-decode-string.executor": "Run",
-    "Python.437-path-sum-3.executor": "Run",
-    "Python.443-string-compression.executor": "Run",
-    "Python.643-max-avg-subarray-1.executor": "Run",
-    "Python.724-find-pivot-index.executor": "Run",
-    "Python.735-asteroid-collision.executor": "Run",
-    "Python.790-domino-tromino-tiling.executor": "Run",
-    "Python.80-remove-dups-2.executor": "Run",
-    "Python.872-leaf-similar-trees.executor": "Run",
-    "Python.875-koko-eating-bananas.executor": "Run",
-    "Python.933-number-of-recent-calls.executor": "Run",
-    "Python.test.executor": "Run",
+    "Python.88-merge-sorted-array.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/user/misc/code/django-test/mysite/polls/templates/polls/index.html",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "last_opened_file_path": "/misc/code/leetcode"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -97,11 +42,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9f73d255-5531-434b-b428-2a18b481e450" name="Changes" comment="" />
-      <created>1723002737225</created>
+      <changelist id="e11a2ede-ca04-4813-9f1d-7fc3414bd907" name="Changes" comment="" />
+      <created>1726781129812</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1723002737225</updated>
+      <updated>1726781129812</updated>
     </task>
     <servers />
   </component>

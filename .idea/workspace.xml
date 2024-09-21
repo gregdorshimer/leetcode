@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e11a2ede-ca04-4813-9f1d-7fc3414bd907" name="Changes" comment="" />
+    <list default="true" id="e11a2ede-ca04-4813-9f1d-7fc3414bd907" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/top-150/380-insert-delete-random-O1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,18 +34,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.121-buy-sell-stock.executor&quot;: &quot;Run&quot;,
-    &quot;Python.169-majority-element.executor&quot;: &quot;Run&quot;,
-    &quot;Python.45-jump-game-2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.55-jump-game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.88-merge-sorted-array.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/misc/code/leetcode&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.121-buy-sell-stock.executor": "Run",
+    "Python.169-majority-element.executor": "Run",
+    "Python.274-h-index.executor": "Run",
+    "Python.380-insert-delete-random-O1.executor": "Run",
+    "Python.45-jump-game-2.executor": "Run",
+    "Python.55-jump-game.executor": "Run",
+    "Python.88-merge-sorted-array.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/misc/code/leetcode"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

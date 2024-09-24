@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e11a2ede-ca04-4813-9f1d-7fc3414bd907" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/top-150/380-insert-delete-random-O1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/top-150/134-gas-station.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.121-buy-sell-stock.executor": "Run",
+    "Python.134-gas-station.executor": "Run",
     "Python.169-majority-element.executor": "Run",
     "Python.274-h-index.executor": "Run",
     "Python.380-insert-delete-random-O1.executor": "Run",
@@ -51,7 +52,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
+        <option value="bundled-python-sdk-884f5ed5d46b-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.22855.92" />
       </set>
     </attachedChunks>
   </component>

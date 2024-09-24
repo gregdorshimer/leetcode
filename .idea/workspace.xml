@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e11a2ede-ca04-4813-9f1d-7fc3414bd907" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/top-150/135-candy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/top-150/42-trapping-rainwater.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +42,7 @@
     "Python.169-majority-element.executor": "Run",
     "Python.274-h-index.executor": "Run",
     "Python.380-insert-delete-random-O1.executor": "Run",
+    "Python.42-trapping-rainwater.executor": "Run",
     "Python.45-jump-game-2.executor": "Run",
     "Python.55-jump-game.executor": "Run",
     "Python.88-merge-sorted-array.executor": "Run",

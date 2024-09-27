@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e11a2ede-ca04-4813-9f1d-7fc3414bd907" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/top-150/42-trapping-rainwater.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/top-150/68-text-justification.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,15 +36,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.12-integer-to-roman.executor": "Run",
     "Python.121-buy-sell-stock.executor": "Run",
+    "Python.13-roman-to-integer.executor": "Run",
     "Python.134-gas-station.executor": "Run",
     "Python.135-candy.executor": "Run",
+    "Python.14-longest-common-prefix.executor": "Run",
     "Python.169-majority-element.executor": "Run",
     "Python.274-h-index.executor": "Run",
+    "Python.28-index-of-first-occurrence.executor": "Run",
     "Python.380-insert-delete-random-O1.executor": "Run",
     "Python.42-trapping-rainwater.executor": "Run",
     "Python.45-jump-game-2.executor": "Run",
     "Python.55-jump-game.executor": "Run",
+    "Python.58-length-last-word.executor": "Run",
+    "Python.68-text-justification.executor": "Run",
     "Python.88-merge-sorted-array.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -54,7 +60,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-884f5ed5d46b-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.22855.92" />
+        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
       </set>
     </attachedChunks>
   </component>

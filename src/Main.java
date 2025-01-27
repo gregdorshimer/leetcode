@@ -10,3 +10,14 @@ public class Main {
     }
 }
 
+
+/**
+ * Problems Completed in Java
+ * 1. Two Sum
+ * 9. Palindrome Number
+ * 20. Valid Parentheses
+ * 27. Remove Element
+ * 67. Add Binary
+ * 88. Merge Sorted Array
+ */
+

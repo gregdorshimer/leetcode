@@ -20,5 +20,6 @@ public class Main {
  * 67. Add Binary
  * 88. Merge Sorted Array
  * 202. Happy Number
+ * 242. Valid Anagram
  */
 

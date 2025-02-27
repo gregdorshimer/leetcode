@@ -23,6 +23,7 @@ public class Main {
  * 202. Happy Number
  * 209. Minimum Size Subarray Sum
  * 219. Contains Duplicate II
+ * 228. Summary Ranges
  * 242. Valid Anagram
  * 290. Word Pattern
  * 383. Ransom Note

@@ -17,6 +17,7 @@ public class Main {
  * 9. Palindrome Number
  * 20. Valid Parentheses
  * 27. Remove Element
+ * 55. Jump Game
  * 67. Add Binary
  * 69 .Sqrt(x)
  * 80. Remove Duplicates from Sorted Array II

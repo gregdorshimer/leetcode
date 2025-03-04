@@ -23,6 +23,7 @@ public class Main {
  * 80. Remove Duplicates from Sorted Array II
  * 88. Merge Sorted Array
  * 202. Happy Number
+ * 205. Isomorphic Strings
  * 209. Minimum Size Subarray Sum
  * 219. Contains Duplicate II
  * 228. Summary Ranges

@@ -30,5 +30,6 @@ public class Main {
  * 242. Valid Anagram
  * 290. Word Pattern
  * 383. Ransom Note
+ * 2390. Removing Stars from a String
  */
 
